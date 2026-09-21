@@ -237,3 +237,8 @@ __marimo__/
 
 # Downloaded parquet files from 03_transform/dbt/load.py
 03_transform/dbt/data/
+03_transform/dbt/profiles.yml
+03_transform/dbt/.user.yml
+03_transform/dbt/logs/
+logs/
+customers-2M.csv
