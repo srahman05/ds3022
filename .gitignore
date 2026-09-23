@@ -242,3 +242,6 @@ __marimo__/
 03_transform/dbt/logs/
 logs/
 customers-2M.csv
+
+# Raw API responses landed by 04_ingest/07_pipeline.py
+04_ingest/data/
