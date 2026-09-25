@@ -17,6 +17,7 @@ httpx = "*"
 asyncio = "*"
 dbt-duckdb = "*"
 dbt-mysql = "*"
+psutil = "*"
 
 [dev-packages]
 
